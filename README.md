@@ -1,5 +1,5 @@
 # CS50-SQL
-It includes my solution for the [CS50 SQL Course](https://cs50.harvard.edu/sql/2023/) Problems, which is introduced by Harvard University.__
+It includes my solution for the [CS50 SQL Course](https://cs50.harvard.edu/sql/2023/) Problems, which is introduced by Harvard University.</br>
 It will be updated until I finish all the weeks.____
 
 Week-0: [Querying](https://github.com/Shebo280/CS50-SQL/tree/master/0-%20Querying)
